@@ -1,4 +1,4 @@
-#puppeteer study
+# puppeteer study
 
 ## 목차
 - [개발환경 구성](#개발환경-구성)
